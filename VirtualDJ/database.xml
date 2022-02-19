@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VirtualDJ_Database Version="8.5">
+ <Song FilePath="/Users/hopesnodgrass/Documents/VirtualDJ/Sampler/Audio/Laugh.vdjsample" FileSize="34984">
+  <Tags Bpm="0.626939" Flag="1" />
+  <Infos SongLength="2.481066" LastModified="1632258725" FirstSeen="1632258725" Bitrate="113" Cover="1" />
+  <Scan Version="801" Bpm="0.626939" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="/Users/hopesnodgrass/Documents/VirtualDJ/Sampler/Audio/Siren.vdjsample" FileSize="331329">
+  <Tags Bpm="0.542857" Flag="1" />
+  <Infos SongLength="17.371429" LastModified="1632258725" FirstSeen="1632258725" Bitrate="153" Cover="1" />
+  <Scan Version="801" Bpm="0.542857" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="/Users/hopesnodgrass/Documents/VirtualDJ/Sampler/Audio/Air Horn.vdjsample" FileSize="128221">
+  <Tags Bpm="0.651587" Flag="1" />
+  <Infos SongLength="6.580862" LastModified="1632258725" FirstSeen="1632258725" Bitrate="156" Cover="1" />
+  <Scan Version="801" Bpm="0.651587" />
+  <Poi Pos="0.623464" Type="beatgrid" />
+ </Song>
+ <Song FilePath="/Users/hopesnodgrass/Documents/VirtualDJ/Sampler/Audio/Applause.vdjsample" FileSize="221779">
+  <Tags Bpm="0.549955" Flag="1" />
+  <Infos SongLength="15.281633" LastModified="1632258725" FirstSeen="1632258725" Bitrate="116" Cover="1" />
+  <Scan Version="801" Bpm="0.549955" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="/Users/hopesnodgrass/Documents/VirtualDJ/Sampler/Audio/Explosion.vdjsample" FileSize="45932">
+  <Tags Bpm="0.375516" Flag="1" />
+  <Infos SongLength="3.004127" LastModified="1632258725" FirstSeen="1632258725" Bitrate="122" Cover="1" />
+  <Scan Version="801" Bpm="0.375516" />
+  <Poi Type="beatgrid" />
+ </Song>
+</VirtualDJ_Database>
